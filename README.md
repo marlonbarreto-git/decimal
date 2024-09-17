@@ -1,8 +1,8 @@
 # decimal
 
-[![ci](https://github.com/shopspring/decimal/actions/workflows/ci.yml/badge.svg?branch=master)](https://github.com/shopspring/decimal/actions/workflows/ci.yml)
-[![GoDoc](https://godoc.org/github.com/shopspring/decimal?status.svg)](https://godoc.org/github.com/shopspring/decimal) 
-[![Go Report Card](https://goreportcard.com/badge/github.com/shopspring/decimal)](https://goreportcard.com/report/github.com/shopspring/decimal)
+[![ci](https://github.com/marlonbarreto-git/decimal/actions/workflows/ci.yml/badge.svg?branch=master)](https://github.com/marlonbarreto-git/decimal/actions/workflows/ci.yml)
+[![GoDoc](https://godoc.org/github.com/marlonbarreto-git/decimal?status.svg)](https://godoc.org/github.com/marlonbarreto-git/decimal) 
+[![Go Report Card](https://goreportcard.com/badge/github.com/marlonbarreto-git/decimal)](https://goreportcard.com/report/github.com/marlonbarreto-git/decimal)
 
 Arbitrary-precision fixed-point decimal numbers in go.
 
@@ -18,7 +18,7 @@ _Note:_ Decimal library can "only" represent numbers with a maximum of 2^31 digi
 
 ## Install
 
-Run `go get github.com/shopspring/decimal`
+Run `go get github.com/marlonbarreto-git/decimal`
 
 ## Requirements 
 
@@ -26,7 +26,7 @@ Decimal library requires Go version `>=1.10`
 
 ## Documentation
 
-http://godoc.org/github.com/shopspring/decimal
+http://godoc.org/github.com/marlonbarreto-git/decimal
 
 
 ## Usage
@@ -36,7 +36,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/shopspring/decimal"
+	"github.com/marlonbarreto-git/decimal"
 )
 
 func main() {
